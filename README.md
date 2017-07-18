@@ -12,3 +12,5 @@ AMJ66 Keyboard tmk firmware
 * make clean
 * make all
 * make dfu
+
+press LShift+RShift+FN0+RBRC (right bracket) to enable programming mode
