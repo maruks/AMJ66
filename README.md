@@ -13,4 +13,6 @@ AMJ66 Keyboard tmk firmware
 * make all
 * make dfu
 
-press LShift+RShift+FN0+RBRC (right bracket) to enable programming mode
+Press LShift+RShift+PAUS to enable programming mode.
+
+PAUS is FN0+P. It was FN0+RBRC (right bracket) in orignal keymap.
